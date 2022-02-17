@@ -5,7 +5,7 @@ function send() {
     $body = array(
         'smsid' => '****',
         'smskey' => '****',
-        'templateId' => '0',
+        'templateid' => '0',
         'countrycode' => '86',
         'token' => '',
         'data' => ['****'], // 与模板中的 {变量} 一一对应
